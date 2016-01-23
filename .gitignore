@@ -27,6 +27,10 @@
 *.i*86
 *.x86_64
 *.hex
+*.3dsx
+*.sdmh
 
 # Debug files
 *.dSYM/
+
+build/*
